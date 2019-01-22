@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 681351354
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: startscene
+      Dependencies: {}
+    Info_1:
+      Name: gisetup
+      Dependencies: {}
+    Info_2:
+      Name: hnsetup
+      Dependencies: {}
+    Info_3:
+      Name: cardiosetup
+      Dependencies: {}
+    Info_4:
+      Name: musclesetup
+      Dependencies: {}
+    Info_5:
+      Name: endosetup
+      Dependencies: {}
+    Info_6:
+      Name: introsetup
+      Dependencies: {}

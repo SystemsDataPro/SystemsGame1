@@ -1,0 +1,13 @@
+{
+"companyName": "Systems",
+"productName": "SYSTEMS_Web",
+"dataUrl": "WebDebug.data.unityweb",
+"wasmCodeUrl": "WebDebug.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebDebug.wasm.framework.unityweb",
+"asmCodeUrl": "WebDebug.asm.code.unityweb",
+"asmMemoryUrl": "WebDebug.asm.memory.unityweb",
+"asmFrameworkUrl": "WebDebug.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Light",
+"backgroundColor": "#0D0F10"
+}

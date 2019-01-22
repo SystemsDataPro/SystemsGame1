@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3555872925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1e11ebbdacc46d10a261dc811e35313
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scenes/CardioSetup.unity
+Dependencies: []
